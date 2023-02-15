@@ -2,6 +2,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/// <summary>
+/// マーキー
+/// </summary>
 [RequireComponent(typeof(Text))]
 public class MarqueeText : BaseMeshEffect
 {
